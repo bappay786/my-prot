@@ -1,5 +1,6 @@
 body{
     font-family: 'Gulzar', serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -26,4 +27,8 @@ section{
     color:white;
  padding: 10px 40px;
     border-radius:5px;
+}
+.top-baner{
+    background-image:url(pic/top-banner.png) ;
+    background-repeat: no-repeat;
 }
