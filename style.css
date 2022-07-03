@@ -32,3 +32,13 @@ section{
     background-image:url(pic/top-banner.png) ;
     background-repeat: no-repeat;
 }
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.dream-big{
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
